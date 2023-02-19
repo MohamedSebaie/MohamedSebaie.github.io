@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+My name is Mohamed Sebaie, I'm from Cairo Egypt, I have graduated from the faculty of Petroleum Engineering Suez University in 2017 then I worked in Petroleum Sector but my passion for Artificial Intelligence and Data science motivates me to shift my career. So, I embarked on my learning journey by different MOOCs such as Data Scientist and Data Analyst Track from Data Camp, Deep Learning Specialization and MlOps Specialization from Coursera, and AWS certification for both Data Analytics and ML specialty. Then, I was joining at Information Technology of Institute (ITI) a subsidiary of ministry communication in Egypt, their Scholarship is one of the most prestigious and competitive with an acceptance rate of 7 percent the program I have joined focused on AI and Machine Learning and in partnership with EPITA and graduate from it in February 2022.
